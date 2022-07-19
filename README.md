@@ -1,6 +1,8 @@
 # cartoonify_image
-cartoonify image using openCV and K-Means Clustering
+cartoonify image using openCV and K-Means Clustering.
+
 I have used openCV for basic features, kmeans clustering for reducing the color, and elbo method for finding suitable number of clusters.
+
 I have also used bilateral filter and canny edge detection.
 
 # GUI:
